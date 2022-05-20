@@ -86,7 +86,7 @@ def baseline_scores(
 
 if __name__ == '__main__':
 
-    # the results as stored as variables. Access value by printing them.
+    # to the reader: the results as stored as variables. Access value by printing them.
 
     # NV: load train and test (train only for majority class determination)
     olid_train = pd.read_csv("data/olid-train.csv")
