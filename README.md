@@ -1,5 +1,11 @@
 # NLP_assignment_2
 
+Authors:
+
+Valentin Buchner
+Ellie Karanikola 
+Nathan Vaartjes
+
 ### Code base for the NLP assignment 2 of group 83
 
 Run requirements.txt first. 
